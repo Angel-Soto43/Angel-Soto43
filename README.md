@@ -32,16 +32,6 @@
 
 ---
 
-###  Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Soto43&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Soto43&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Angel-Soto43&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" alt="Footer banner" />
