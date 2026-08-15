@@ -19,18 +19,4 @@ Ingeniero en Computación (UAEM Valle de México), enfocado en arquitecturas ful
 
 ### 🛠️ Stack
 
-**Lenguajes:** JavaScript (ES6+) · TypeScript · Java
-**Frontend:** React · Tailwind CSS · HTML5 · CSS3
-**Backend:** Node.js · Express · APIs REST
-**Bases de datos:** PostgreSQL · MySQL · SQLite
-**Herramientas:** Git · GitHub · Postman · Linux
-
----
-
-### 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angel-Soto43&show_icons=true&theme=dark&locale=en)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Soto43&layout=compact&theme=dark&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Angel-Soto43&theme=dark)
+![Stack](https://skillicons.dev/icons?i=js,ts,java,react,tailwind,html,css,nodejs,express,postgres,mysql,sqlite,git,github,linux)
