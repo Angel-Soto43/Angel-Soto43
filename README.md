@@ -19,7 +19,7 @@
 
 **[CORELINK Systems](https://github.com/Angel-Soto43/AzalMechanicalSupport)** — Plataforma de gestión documental y cotizaciones corporativas en producción, usada por 5 empresas cliente. React/TypeScript + Node.js/Express + integración Microsoft Graph API. [Demo en vivo](https://corelinksystems.vercel.app)
 
-**Olympus Barber** — Sistema full stack de gestión para barbería: control de acceso por roles, inventario, programa de lealtad, POS con códigos QR y auditoría. React 18/TypeScript/Vite + Node.js/Express + SQLite.
+**[Olimpus-Barber](https://github.com/Angel-Soto43/olympus-barber)** — Sistema full stack de gestión para barbería: control de acceso por roles, inventario, programa de lealtad, POS con códigos QR y auditoría. React 18/TypeScript/Vite + Node.js/Express + SQLite.
 <!-- Agrega el link del repo aquí cuando lo subas: [Repo](URL) -->
 
 ---
